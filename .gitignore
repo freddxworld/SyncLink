@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+.next/
+
+# Environment variables
+.env.local
+.env.production.local
+
+# macOS specific files
+.DS_Store
+
+# Package management files
+yarn.lock
+
